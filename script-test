@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Affichage de l'heure
-
 touch jeton
 
 
